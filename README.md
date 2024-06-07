@@ -66,3 +66,8 @@ The AI solver uses a backtracking algorithm to solve Sudoku puzzles. It demonstr
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or enhancements.
+
+## Screenshots
+
+![ai sudoku Game](ss.png)
+![ui sudoku Game](ss2.png)
